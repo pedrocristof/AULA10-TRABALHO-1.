@@ -1,6 +1,7 @@
 # ESOFT2-LTP-AULA10-TRABALHO-1
 
-**Aluno(a):** [Digite seu nome]  
+**Aluno(a):** Pedro Henrique Cristof
+**RA**: 26010982-2
 **Disciplina:** Linguagem e Técnicas de Programação  
 **Professor:** José Carlos Flores
 
@@ -72,5 +73,4 @@ if (is_numeric($idade)) {
 ## Identificação para envio
 
 **Assunto do e-mail:** `ESOFT2-LTP-AULA10-TRABALHO-1`  
-**Professor:** [jose.flores@unicesumar.edu.br](mailto:jose.flores@unicesumar.edu.br)
-
+**Professor:** JOSE CARLOS DOMINGUES FLORES 
